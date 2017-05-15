@@ -1,0 +1,6 @@
+Django==1.11.1
+djangorestframework==3.3.2
+djangorestframework-xml
+
+pathlib2
+xmltodict
